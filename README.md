@@ -10,6 +10,7 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 
 | Progetto | Cosa fa | Tecnologie |
 |---|---|---|
+| [Prezzi dei carburanti a Roma](https://github.com/KsandarIV/analisi-prezzi-carburanti-roma) *(in corso)* | Quanto costa fare rifornimento a Roma e da cosa dipende il prezzo, sui dati aperti MIMIT di 946 distributori. Audit completato; è la base per l'analisi dell'archivio nazionale 2015–2026 | Python, pandas, Plotly, Jupyter |
 | [Analisi dataset Kaggle](https://github.com/KsandarIV/analisi-dataset-kaggle-olidata) | Quali fattori determinano gli stipendi nel settore dati e IA (2020–2025): pulizia di circa 151.000 righe, analisi tra mercati, modelli di classificazione | Python, pandas, scikit-learn, matplotlib |
 | [AI 4 Restaurants](https://github.com/KsandarIV/AI_4_Restaurants) | Assistente vocale e chatbot per le prenotazioni di un ristorante. Ho scritto il modulo vocale e coordinato il gruppo di 4 | Python, faster-whisper, Piper, FastAPI, LLM locale |
 | [ZibaldOne](https://github.com/KsandarIV/ZibaldOne) | App personale "tutto in uno" a blocchi componibili, local-first e cifrata, per Windows e Android | Python, SQLite, Flet, GitHub Actions |
