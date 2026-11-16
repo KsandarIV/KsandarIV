@@ -10,7 +10,7 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 
 | Progetto | Cosa fa | Tecnologie |
 |---|---|---|
-| [Prezzi dei carburanti a Roma](https://github.com/KsandarIV/analisi-prezzi-carburanti-roma) *(in corso)* | Quanto costa fare rifornimento a Roma e da cosa dipende il prezzo, sui dati aperti MIMIT di 946 distributori. Audit completato; è la base per l'analisi dell'archivio nazionale 2015–2026 | Python, pandas, Plotly, Jupyter |
+| [Analisi prezzi dei carburanti a Roma](https://github.com/KsandarIV/analisi-prezzi-carburanti-roma) *(in corso)* | Quanto costa fare rifornimento a Roma e da cosa dipende il prezzo, sui dati aperti MIMIT di 946 distributori. Audit completato; è la base per l'analisi dell'archivio nazionale 2015–2026 | Python, pandas, Plotly, Jupyter |
 | [Analisi dataset Kaggle](https://github.com/KsandarIV/analisi-dataset-kaggle-olidata) | Quali fattori determinano gli stipendi nel settore dati e IA (2020–2025): pulizia di circa 151.000 righe, analisi tra mercati, modelli di classificazione | Python, pandas, scikit-learn, matplotlib |
 | [AI 4 Restaurants](https://github.com/KsandarIV/AI_4_Restaurants) | Assistente vocale e chatbot per le prenotazioni di un ristorante. Ho scritto il modulo vocale e coordinato il gruppo di 4 | Python, faster-whisper, Piper, FastAPI, LLM locale |
 | [ZibaldOne](https://github.com/KsandarIV/ZibaldOne) | App personale "tutto in uno" a blocchi componibili, local-first e cifrata, per Windows e Android | Python, SQLite, Flet, GitHub Actions |
@@ -24,8 +24,8 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 
 ### Fuori dal codice
 - Ho partecipato a competizioni di cybersecurity: all'ITSCyberGame 2026 mi sono classificato 10° su 378 nella classifica individuale, e la mia squadra è arrivata alla finale di Padova. Parlo italiano e bulgaro, inglese (B2), francese e spagnolo (B1).
-- Gar: racconto di fantascienza in quattro parti, tra la civiltà aliena dei GarGariani e l’equipaggio di una nave mineraria, con temi filosofici e sociali come la coscienza artificiale e l’organizzazione anarchica. Due parti sono scritte, la terza è in bozza; ora sto revisionando tutto.
-- Project One: un progetto di worldbuilding che parte dalle domande prima che dalle ambientazioni. Le razze, le loro culture e i loro poteri, la magia e la storia stessa nascono da questioni filosofiche ed esistenziali, per dare al mondo fondamenta metafisiche profonde. È il mio progetto narrativo più ambizioso, e ci lavoro da anni.
+- **Gar**: racconto di fantascienza in quattro parti, tra la civiltà aliena dei GarGariani e l’equipaggio di una nave mineraria, con temi filosofici e sociali come la coscienza artificiale e l’organizzazione anarchica. Due parti sono scritte, la terza è in bozza; ora sto revisionando tutto.
+- **Project: One**: un progetto di worldbuilding che parte dalle domande prima che dalle ambientazioni. Le razze, le loro culture e i loro poteri, la magia e la storia stessa nascono da questioni filosofiche ed esistenziali, per dare al mondo fondamenta metafisiche profonde. È il mio progetto narrativo più ambizioso, e ci lavoro da anni.
   
 ### Contatti
 [Portfolio](https://ksandariv.github.io) · [LinkedIn](https://www.linkedin.com/in/aleksandar-savov/) · aleksandar_savov@yahoo.com
