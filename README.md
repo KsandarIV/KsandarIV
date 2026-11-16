@@ -23,7 +23,9 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 - **Strumenti e metodo:** Git, Linux, Docker, pytest, Agile/Scrum
 
 ### Fuori dal codice
-Ho partecipato a competizioni di cybersecurity: all'ITSCyberGame 2026 mi sono classificato 10° su 378 nella classifica individuale, e la mia squadra è arrivata alla finale di Padova. Parlo italiano e bulgaro, inglese (B2), francese e spagnolo (B1).
-
+- Ho partecipato a competizioni di cybersecurity: all'ITSCyberGame 2026 mi sono classificato 10° su 378 nella classifica individuale, e la mia squadra è arrivata alla finale di Padova. Parlo italiano e bulgaro, inglese (B2), francese e spagnolo (B1).
+- Gar: racconto di fantascienza in quattro parti, tra la civiltà aliena dei GarGariani e l’equipaggio di una nave mineraria, con temi filosofici e sociali come la coscienza artificiale e l’organizzazione anarchica. Due parti sono scritte, la terza è in bozza; ora sto revisionando tutto.
+- Project One: un progetto di worldbuilding che parte dalle domande prima che dalle ambientazioni. Le razze, le loro culture e i loro poteri, la magia e la storia stessa nascono da questioni filosofiche ed esistenziali, per dare al mondo fondamenta metafisiche profonde. È il mio progetto narrativo più ambizioso, e ci lavoro da anni.
+- 
 ### Contatti
 [Portfolio](https://ksandariv.github.io) · aleksandar_savov@yahoo.com
