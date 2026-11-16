@@ -23,7 +23,7 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 - **Strumenti e metodo:** Git, Linux, Docker, pytest, Agile/Scrum
 
 ### Fuori dal codice
-Partecipo a competizioni di cybersecurity: all'ITSCyberGame 2026 mi sono classificato 10° su 378 nella classifica individuale, e la mia squadra è arrivata alla finale di Padova. Parlo italiano e bulgaro, inglese (B2), francese e spagnolo (B1).
+Ho partecipato a competizioni di cybersecurity: all'ITSCyberGame 2026 mi sono classificato 10° su 378 nella classifica individuale, e la mia squadra è arrivata alla finale di Padova. Parlo italiano e bulgaro, inglese (B2), francese e spagnolo (B1).
 
 ### Contatti
 [Portfolio](https://ksandariv.github.io) · aleksandar_savov@yahoo.com
