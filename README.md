@@ -28,4 +28,4 @@ Sto cercando uno **stage** in cui lavorare su dati, machine learning e IA genera
 - Project One: un progetto di worldbuilding che parte dalle domande prima che dalle ambientazioni. Le razze, le loro culture e i loro poteri, la magia e la storia stessa nascono da questioni filosofiche ed esistenziali, per dare al mondo fondamenta metafisiche profonde. È il mio progetto narrativo più ambizioso, e ci lavoro da anni.
   
 ### Contatti
-[Portfolio](https://ksandariv.github.io) · aleksandar_savov@yahoo.com
+[Portfolio](https://ksandariv.github.io) · [LinkedIn](https://www.linkedin.com/in/aleksandar-savov/) · aleksandar_savov@yahoo.com
